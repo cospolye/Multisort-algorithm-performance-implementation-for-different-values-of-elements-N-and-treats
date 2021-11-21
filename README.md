@@ -2,5 +2,5 @@
 
 Compiled and executed with:
 
-    gcc -o main -fopenmp main.c
+    gcc -o main -fopenmp ex2.cpp
     ./main
